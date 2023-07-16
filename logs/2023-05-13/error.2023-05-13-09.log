@@ -1,0 +1,70 @@
+2023-05-13 09:32:18,517 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63040 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63040 or configure this application to listen on another port.
+
+2023-05-13 09:40:55,468 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63040 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63040 or configure this application to listen on another port.
+
+2023-05-13 09:41:27,444 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63040 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63040 or configure this application to listen on another port.
+
+2023-05-13 09:48:34,518 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63040 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63040 or configure this application to listen on another port.
+
+2023-05-13 09:57:12,794 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63110 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63110 or configure this application to listen on another port.
+
