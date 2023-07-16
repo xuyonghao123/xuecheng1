@@ -1,0 +1,14 @@
+2023-07-05 09:47:12,930 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63075 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63075 or configure this application to listen on another port.
+

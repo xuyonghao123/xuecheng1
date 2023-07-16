@@ -1,0 +1,42 @@
+2023-05-11 13:42:58,649 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63110 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63110 or configure this application to listen on another port.
+
+2023-05-11 13:43:38,034 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63110 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63110 or configure this application to listen on another port.
+
+2023-05-11 13:47:31,389 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63110 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63110 or configure this application to listen on another port.
+
